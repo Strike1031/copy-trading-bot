@@ -1,0 +1,6 @@
+PRIVATE_KEY=
+TARGET_WALLET=
+RPC_ENDPOINT=https://mainnet.helius-rpc.com/?api-key=213313a6-e10e-487c-b0d7-c9c748e18501
+RPC_WEBSOCKET_ENDPOINT=wss://mainnet.helius-rpc.com/?api-key=213313a6-e10e-487c-b0d7-c9c748e18501
+MAXIMUM_BUY_AMOUNT=2.5
+JUP_AGGREGATOR=JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4
